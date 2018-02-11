@@ -1,0 +1,25 @@
+{
+  "name": "fitness-planet",
+  "version": "1.0.0",
+  "description": "An API client for Planet Fitness",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeflateau/fitness-planet.git"
+  },
+  "author": "Joe Flateau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeflateau/fitness-planet/issues"
+  },
+  "homepage": "https://github.com/joeflateau/fitness-planet#readme",
+  "dependencies": {
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
